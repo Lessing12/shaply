@@ -1,0 +1,43 @@
+body{
+    background: url(https://cdn.colorlib.com/shapely/wp-content/uploads/sites/12/2016/03/photo-1443527216320-7e744084f5a7-1.jpg) center/cover no-repeat;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    font-family: 'Raleway', sans-serif;
+}
+.class{
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+
+
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin: 0;
+    padding-left: 20px;
+    padding-left: 20px;
+    border-bottom: 2px solid black;
+    background-color: white
+    
+   
+}
+ul{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    justify-content: flex-end;
+    justify-content: space-between;
+    padding: 10px;
+
+}
+li{
+    padding-right: 10px;
+    text-decoration: none;
+    display: flex;
+    justify-content: flex-end;
+}
